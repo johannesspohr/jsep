@@ -2,4 +2,5 @@
 .DS_Store
 node_modules
 *.zip
+.idea/
 annotated_source/
